@@ -1,0 +1,12 @@
+2025-05-26 19:05:21,622 - RAG_System - ERROR - Query failed - Agent: projects, Time: 0.00s, Error: name 'is_potential_injection' is not defined
+2025-05-26 19:07:23,279 - faiss.loader - INFO - Loading faiss.
+2025-05-26 19:07:23,684 - faiss.loader - INFO - Successfully loaded faiss.
+2025-05-26 19:07:23,689 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-27 13:19:40,365 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-27 13:19:40,367 - openai._base_client - INFO - Retrying request to /embeddings in 0.398064 seconds
+2025-05-27 13:19:41,316 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-27 13:19:41,318 - openai._base_client - INFO - Retrying request to /embeddings in 0.862773 seconds
+2025-05-27 13:19:42,954 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-27 13:26:11,976 - RAG_System - ERROR - Query failed - Agent: projects, Time: 0.00s, Error: name 'is_potential_injection' is not defined
+2025-05-27 13:26:35,908 - RAG_System - ERROR - Query failed - Agent: projects, Time: 0.00s, Error: name 'is_potential_injection' is not defined
+2025-05-27 13:26:58,259 - RAG_System - ERROR - Query failed - Agent: projects, Time: 0.00s, Error: name 'is_potential_injection' is not defined

@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-openai
+langchain-google-genai
+faiss-cpu
+# Add other specific versions if necessary, e.g., beautifulsoup4, selenium, etc.
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+chromedriver-autoinstaller
+pandas 
